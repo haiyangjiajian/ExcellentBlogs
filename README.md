@@ -2,8 +2,8 @@
 一些自己认为十分优秀的博客，至少曾在上面看到过一篇原创就某个问题研究十分深入的文章。十分欢迎[提交新的博客](https://github.com/haiyangjiajian/ExcellentBlogs/issues/1)
 
 
-###公司
-
+公司
+===
 
 |地址|介绍|微信公众号|
 |--------|-------|-----|
@@ -17,7 +17,9 @@
 |[有赞技术团队](https://tech.youzan.com/)|有赞技术团队，涉及的技术面很广，移动端，前端，基础服务，运维，测试等均有||
 |[携程技术中心](https://www.zhihu.com/org/xi-cheng-ji-shu-zhong-xin/activities)|携程在知乎的专栏| 携程技术中心(ctriptech) |
 
-###个人
+个人
+===
+
 |地址|介绍|微信公众号|
 |--------|-------|-----|
 |[Mind Hacks](http://mindhacks.cn/)|刘未鹏[暗时间](https://book.douban.com/subject/6709809/)作者，问题思考深入，含有很多方法论，思维学习方法|思维改变生活(pongba_mmindhacks)|
