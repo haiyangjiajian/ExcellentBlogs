@@ -2,7 +2,7 @@
 一些自己认为十分优秀的博客，至少曾在上面看到过一篇原创就某个问题研究十分深入的文章。十分欢迎[提交新的博客](https://github.com/haiyangjiajian/ExcellentBlogs/issues/1)
 
 
-公司
+技术公司
 ===
 
 |地址|介绍|微信公众号|
@@ -16,8 +16,15 @@
 |[AlloyTeam](http://www.alloyteam.com/)|腾讯前端技术团队，bat三家互相推荐，果然技术无边界|腾讯AlloyTeam(AlloyTeam)|
 |[有赞技术团队](https://tech.youzan.com/)|有赞技术团队，涉及的技术面很广，移动端，前端，基础服务，运维，测试等均有||
 |[携程技术中心](https://www.zhihu.com/org/xi-cheng-ji-shu-zhong-xin/activities)|携程在知乎的专栏| 携程技术中心(ctriptech) |
+|[阿里中间件团队博客](http://jm.taobao.org/)| 阿里中间件团队博客|阿里巴巴中间件(Aliware_2018)|
+|[Facebook Blog](https://code.fb.com/)|Facebook 博客，需要agw||
+|[LinkedIn Blog](https://engineering.linkedin.com/blog)|领英博客||
+|[腾讯大数据](http://data.qq.com/blog/)|腾讯大数据|腾讯大数据(tencentbigdata)|
 
-个人
+
+
+
+技术个人
 ===
 
 |地址|介绍|微信公众号|
@@ -29,3 +36,4 @@
 |[扶墙老师说](https://afoo.me/)|资深程序员了，Java，Scala技术栈理解深入||
 |[唐巧的博客](http://blog.devtang.com/)|内容很真实，之前主要是ios，现在更多管理的思考|唐巧(TangQiaoTalk)|
 |[haiyangjiajian](http://haiyangjiajian.com/)|我的博客，放在最后，激励自己|海洋加减|
+
